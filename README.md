@@ -12,13 +12,13 @@ What I am using in this app:
 
 ## Installation and usage
 
-Install required packages:
+### Install required packages
 
 ```bash
 npm install
 ```
 
-Running the app on development mode:
+### Running the app on development mode
 
 ```bash
 yarn watch
