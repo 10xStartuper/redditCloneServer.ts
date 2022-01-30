@@ -1,0 +1,6 @@
+  // const post = orm.em.create(Post, { title: "Database test" });
+  // await orm.em.persistAndFlush(post);
+  // const posts = await orm.em.find(Post, {});
+  // app.get("/", (_, res) => {
+  //   res.json(posts);
+  // });
