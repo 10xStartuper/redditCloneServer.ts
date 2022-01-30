@@ -12,16 +12,16 @@ What I am using in this app:
 
 ## Installation and usage
 
-1. Install required packages:
+Install required packages:
 
-```
-$ npm install
+```bash
+$npm install
 ```
 
-2. Running the app on development mode
+Running the app on development mode:
 
-```
-$ yarn watch
+```bash
+$yarn watch
 $ yarn dev
 ```
 
