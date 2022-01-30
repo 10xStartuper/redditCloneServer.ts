@@ -8,12 +8,11 @@ What I am using in this app:
 - [x] Mikro-ORM
 - [x] PostgreSQL
 - [x] GraphQL
-etc.
+- [ ] upcoming.
 
 ## Installation and usage
 
 1. Install required packages:
-
 
 ```
 $ npm install
