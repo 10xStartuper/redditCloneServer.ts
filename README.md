@@ -24,8 +24,6 @@ Running the app on development mode:
 yarn watch
 ```
 
-and
-
 ```bash
 yarn dev
 ```
