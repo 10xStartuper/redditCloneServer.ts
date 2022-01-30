@@ -15,14 +15,19 @@ What I am using in this app:
 Install required packages:
 
 ```bash
-$npm install
+npm install
 ```
 
 Running the app on development mode:
 
 ```bash
-$yarn watch
-$ yarn dev
+yarn watch
+```
+
+and
+
+```bash
+yarn dev
 ```
 
 Developed by Mukhammadyusuf with the help of @BenAwad
