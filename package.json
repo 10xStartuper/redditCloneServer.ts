@@ -4,9 +4,10 @@
   "description": "Server for reddit clone",
   "main": "app.js",
   "scripts": {
-    "watch": "tsc -w",
+    "build": "tsc",
     "start": "node dist/index.js",
     "dev": "nodemon dist/index.js",
+    "watch": "tsc -w",
     "ts-node": "ts-node src/index.ts",
     "create-migration": "npx mikro-orm migration:create"
   },
