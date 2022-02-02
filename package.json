@@ -9,7 +9,7 @@
     "dev": "nodemon dist/index.js",
     "watch": "tsc -w",
     "ts-node": "ts-node src/index.ts",
-    "create-migration": "npx mikro-orm migration:create"
+    "migration:create": "mikro-orm migration:create"
   },
   "keywords": [
     "reddit",
@@ -31,9 +31,13 @@
     "@mikro-orm/migrations": "^4.5.10",
     "@mikro-orm/postgresql": "^4.5.10",
     "apollo-server-express": "2.16.1",
+    "argon2": "^0.28.3",
+    "connect-redis": "^6.0.0",
     "express": "^4.17.2",
+    "express-session": "^1.17.2",
     "graphql": "^15.3.0",
     "pg": "^8.7.1",
+    "redis": "^4.0.3",
     "reflect-metadata": "^0.1.13",
     "type-graphql": "^1.1.1"
   },
