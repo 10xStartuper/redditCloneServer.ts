@@ -8,6 +8,7 @@ What I am using in this app:
 - [x] Mikro-ORM
 - [x] PostgreSQL
 - [x] GraphQL
+- [x] Redis 
 - [ ] upcoming.
 
 ## Installation and usage
